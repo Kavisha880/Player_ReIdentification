@@ -81,12 +81,10 @@ I built this project as part of my learning journey in computer vision, deep lea
 
 - 💬 I enjoy solving practical problems using Python, OpenCV, and YOLO.  
 - 💡 Always building, always learning.  
-- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/kavisha-gupta)
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/kavisha-gupta-871b04247/)
 
-## 📜 License
 
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and share it — just give credit if you do 😊
+
 
 ## 📦 requirements.txt
 
